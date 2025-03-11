@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "raspy-truth-9ab0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "866f43a3-6422-466c-9038-d3e855d971b3",
+      "database_name": "long-firefly-2473-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
